@@ -1,0 +1,25 @@
+.has-foreground-background-color {
+  background-color: #6eaaac !important;
+}
+
+.wp-block-search__input {
+  border-radius: 0 !important;
+}
+.wp-block-search__button {
+  border-radius: 0 !important;
+}
+.has-secondary-background-color {
+  background-color: #c64f00 !important;
+}
+.wp-block-navigation__responsive-container {
+  background-color: #f6f6f6 !important;
+}
+.has-background-color {
+  color: #6eaaac !important;
+}
+ul li a {
+  color: #6eaaac;
+}
+
+replace: for wordpress logo image <a href= "https://tasksheet.tempurl.host"
+  target= "_self" rel= "home" aria-current= "page" >My Blog</a>;

@@ -1,0 +1,35 @@
+{
+  "31337": {
+    "exchange": {
+      "address": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+    },
+    "DApp": {
+      "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+    },
+    "mETH": {
+      "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+    },
+    "mDAI": {
+      "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+    },
+    "explorerURL": "#"
+  },
+  "5": {
+    "explorerURL": "https://goerli.etherscan.io/"
+  },
+  "11155111": {
+    "exchange": {
+      "address": "0x76F720b65406b511cEa7e69bEafbBcFa38edf58b"
+    },
+    "DApp": {
+      "address": "0x6BBcE117953b1311207E734B4c6087D29ce0759a"
+    },
+    "mETH": {
+      "address": "0xD488e40097176FE2b937F4443D20fC376487C700"
+    },
+    "mDAI": {
+      "address": "0x25E4ff2765E118B13Fa3Cf5103FB901185b52180"
+    },
+    "explorerURL": "https://sepolia.etherscan.io/"
+  }
+}
